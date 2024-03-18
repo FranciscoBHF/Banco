@@ -7,6 +7,9 @@ namespace Banco
 {
     public class Cuenta
     {
-        
+        public int CBU {get; set;}
+        public float saldo {get; set;}
+        public Cuenta(int CBU, saldo)
+            =>(Cbu, Saldo) = (CBU, saldo)
     }
 }

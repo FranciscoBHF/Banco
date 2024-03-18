@@ -13,6 +13,6 @@ namespace Banco
         public float saldo {get; set;}
         
         public Cliente(int cuit, string nombre, string apellido, float saldo)
-            =>(Cuit, Nombre, Apellido, Saldo) = (cuit, nombre, apellido, saldo) 
+            =>(Cuit, Nombre, Apellido, Saldo) = (cuit, nombre, apellido, saldo)
     }
 }

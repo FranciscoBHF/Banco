@@ -10,5 +10,7 @@ class Cliente{
 class cuenta{
     +CBU: int
     +saldo: float
+    +debitar(float)
+    +acreaditar(float)
 }
 ```

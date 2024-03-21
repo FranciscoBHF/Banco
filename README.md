@@ -11,3 +11,4 @@ class cuenta{
     +CBU: int
     +saldo: float
 }
+```

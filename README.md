@@ -22,7 +22,7 @@ class cuenta{
 }
 
 class Estrategia{
-
+    algo; int
 }
 
 Cliente o-- cuenta

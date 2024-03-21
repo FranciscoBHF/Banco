@@ -9,7 +9,7 @@ class Cliente{
     +estrategia: Estrategia
     +debitar(float)
     +acreaditar(float)
-    +VerCBU(int)
+    -VerCBU(int)
     +VerSaldo(float)
 }
 

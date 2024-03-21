@@ -12,6 +12,7 @@ class Cliente{
     +VerCBU(int)
     +VerSaldo(float)
 }
+
 class cuenta{
     +CBU: int
     +saldo: float
@@ -19,8 +20,10 @@ class cuenta{
     +acreaditar(float)
     +VerSaldo(float)
 }
+
 class Estrategia{
 
 }
+
 Cliente o-- cuenta
 ```

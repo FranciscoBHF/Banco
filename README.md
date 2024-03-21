@@ -6,6 +6,7 @@ class Cliente{
     +nombre: string
     +apellido: string
     +saldo: float
+    +estrategia: Estrategia
     +debitar(float)
     +acreaditar(float)
     +VerCBU(int)
@@ -18,5 +19,7 @@ class cuenta{
     +acreaditar(float)
     +VerSaldo(float)
 }
-
+class Estrategia{
+    
+}
 ```

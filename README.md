@@ -26,4 +26,5 @@ class Estrategia{
 }
 
 Cliente o-- cuenta
+
 ```

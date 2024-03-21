@@ -20,6 +20,7 @@ class cuenta{
     +VerSaldo(float)
 }
 class Estrategia{
-    
+
 }
+Cliente o-- cuenta
 ```
